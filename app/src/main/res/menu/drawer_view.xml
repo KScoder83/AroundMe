@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/keywords" android:checkableBehavior="single">
+        <item
+            android:orderInCategory="0"
+            android:title="Airport" />
+        <item
+            android:orderInCategory="0"
+            android:title="Hospital" />
+        <item
+            android:orderInCategory="0"
+            android:title="Cafe" />
+        <item
+            android:orderInCategory="0"
+            android:title="Car Wash" />
+    </group>
+
+
+</menu>
